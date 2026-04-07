@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 I’m a Computer Science student focused on building AI systems that solve real problems, not just sit as projects. I turn complex ideas into simple, usable products — especially in AI, automation, and intelligent systems.
 
 > I’m more interested in building things that matter than just learning how they work.
@@ -58,24 +57,17 @@ I’m a Computer Science student focused on building AI systems that solve real 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umarfarooque88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=umarfarooque88&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=tokyonight&hide_border=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umarfarooque88&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=umarfarooque88&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=umarfarooque88&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=umarfarooque88&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM -->
