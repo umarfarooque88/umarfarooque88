@@ -58,8 +58,8 @@ I’m a Computer Science student focused on building AI systems that solve real 
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
+![](https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
