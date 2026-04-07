@@ -7,10 +7,8 @@ I’m a Computer Science student focused on building AI systems that solve real 
 🔭 Working on → AI systems & automation tools  
 👯 Open to → AI products & real-world projects  
 🤝 Need help with → Scaling & accuracy  
-🌱 Learning → Advanced AI, NLP, system design  
+🌱 Learning → Advanced AI, system design  
 💬 Ask me → AI, Firebase, automation, products  
-⚡ Fun fact → I build more than I consume  
-
 ---
 
 ## 🌐 Socials:
