@@ -322,36 +322,7 @@ An intelligent voice-based medical triage platform powered by AI. Uses NLP to co
 </td>
 <td width="50%" valign="top">
 
-### 📊 System Monitor HUD
-> *Real-time desktop system metrics widget*
 
-A compact, always-on-top desktop widget displaying real-time system metrics as colorful animated arc gauges. CPU, RAM, Network — all at a glance.
-
-**Tech:** `TypeScript` `Electron` `React` `System APIs`
-
-[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/System-Monitor-HUD)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/System-Monitor-HUD?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT ROW 3 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Social Synapse AI
-> *Multi-platform social media management*
-
-Post content to Twitter/X, LinkedIn, and Reddit from a single interface. AI-powered content suggestions, scheduling, and analytics across all platforms.
-
-**Tech:** `TypeScript` `React` `Firebase` `AI`
-
-[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/social-synapse-ai)
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚔️ Die On This Hill
 > *Debate-first opinion accountability platform*
@@ -384,69 +355,9 @@ AI-generated emails, Gmail API integration, client finding via Google Maps API, 
 </td>
 <td width="50%" valign="top">
 
-### 📸 Facial Recognition Attendance
-> *Smart attendance via face recognition*
 
-Automated attendance system using facial recognition. Captures, identifies, and logs attendance of individuals in real-time. Zero manual intervention needed.
 
-**Tech:** `Python` `OpenCV` `face_recognition` `ML`
 
-[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Facial-Recognition-Attendance-System)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/Facial-Recognition-Attendance-System?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT ROW 5 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 ResumeRanker AI
-> *AI-powered resume optimization tool*
-
-Analyzes resumes and provides personalized feedback on content, formatting, and keyword optimization. Get your resume past ATS systems and into human hands.
-
-**Tech:** `HTML` `React` `Flask` `Firebase` `AI`
-
-[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ResumeRanker-AI)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/ResumeRanker-AI?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Hostel Mess System
-> *Web-based mess management solution*
-
-Complete hostel mess system — student registrations, meal attendance tracking (lunch & dinner), payment handling, and meal history. Built for real hostel use.
-
-**Tech:** `JavaScript` `Node.js` `Web` `Database`
-
-[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Hostel-Mess-System)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/Hostel-Mess-System?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT ROW 6 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Guard Form Builder
-> *Drag-and-drop form builder application*
-
-A powerful form builder with React, TypeScript, and Tailwind CSS. Drag-and-drop interface, shadcn-ui components, and seamless form creation workflow.
-
-**Tech:** `TypeScript` `React` `Tailwind` `shadcn-ui`
-
-[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/guard-form-build)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/guard-form-build?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🛒 StreetSupplyHub
 > *Street-level supply chain platform*
