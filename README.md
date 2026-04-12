@@ -1,28 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=&fontSize=0" width="100%"/>
+  <img src="./assets/hero-banner.svg" width="100%" alt="Umar Farooque — AI Engineer, CS Student, Builder"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&duration=3000&pause=1000&color=1A1A2E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=55&lines=Hey+there%2C+I'm+Umar+Farooque+%F0%9F%91%8B" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=30&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Product+Builder+%7C+Design+Enthusiast" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=3500&pause=800&color=8B7FF5&center=true&vCenter=true&repeat=true&width=620&height=28&lines=Building+AI+systems+that+solve+real+problems+%E2%80%94+not+just+sit+as+projects.;Turning+complex+ideas+into+simple%2C+usable+products.;Ship+fast%2C+iterate+faster.+Build+%E2%86%92+Ship+%E2%86%92+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+<div align="center">
+
+## 🧠 About Me
+
+</div>
 
 <table>
 <tr>
 <td width="55%" valign="top">
-
-### 🧠 About Me
 
 I'm a **Computer Science student** focused on building **AI systems** that solve real problems — not just sit as projects.
 
@@ -31,10 +29,10 @@ I turn complex ideas into **simple, usable products**, especially in AI, automat
 > *"I'm more interested in building things that matter than just learning how they work."*
 
 ```yaml
-Location:    Building the future 🌍
-Focus:       AI Systems & Automation
-Philosophy:  Ship fast, iterate faster
-Motto:       Build → Ship → Repeat 🚀
+Location:      Building the future 🌍
+Focus:         AI Systems & Automation
+Philosophy:    Ship fast, iterate faster
+Motto:         Build → Ship → Repeat 🚀
 ```
 
 </td>
@@ -48,7 +46,7 @@ Motto:       Build → Ship → Repeat 🚀
 | 👯 **Open to** | AI products & real-world projects |
 | 🤝 **Need help with** | Scaling & accuracy |
 | 🌱 **Learning** | Advanced AI, system design |
-| 💬 **Ask me about** | AI, Firebase, automation, products |
+| 💬 **Ask me about** | AI, Firebase, automation |
 | 🎯 **Goal** | Build AI that matters |
 
 </td>
@@ -57,9 +55,11 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONNECT WITH ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
 
 <div align="center">
 
@@ -67,29 +67,19 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<a href="https://linkedin.com/in/umar-farooque88">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/umarfaruk1026">
-  <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/umar.farxoq">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:umarfarooque88@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/umarfarooque88">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<a href="https://linkedin.com/in/umar-farooque88"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://x.com/umarfaruk1026"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+&nbsp;
+<a href="https://instagram.com/umar.farxoq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:umarfaruk1026@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/umarfarooque88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=umarfarooque88&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=umarfarooque88&label=Profile+Views&color=8B7FF5&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -99,9 +89,7 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 <div align="center">
 
@@ -113,12 +101,9 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- LANGUAGES -->
 <details open>
 <summary><h3>💻 Programming Languages</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -130,15 +115,11 @@ Motto:       Build → Ship → Repeat 🚀
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
-
 </details>
 
-<!-- FRONTEND -->
 <details open>
 <summary><h3>🎨 Frontend & UI Frameworks</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -149,15 +130,11 @@ Motto:       Build → Ship → Repeat 🚀
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
-
 </details>
 
-<!-- BACKEND -->
 <details open>
 <summary><h3>⚙️ Backend & Runtime</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -165,15 +142,11 @@ Motto:       Build → Ship → Repeat 🚀
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
-
 </details>
 
-<!-- AI & DATA -->
 <details open>
 <summary><h3>🤖 AI & Data Science</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -182,15 +155,11 @@ Motto:       Build → Ship → Repeat 🚀
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
-
 </details>
 
-<!-- CLOUD & DEVOPS -->
 <details open>
 <summary><h3>☁️ Cloud & DevOps</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -200,15 +169,11 @@ Motto:       Build → Ship → Repeat 🚀
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
-
 </details>
 
-<!-- DESIGN -->
 <details open>
 <summary><h3>🎯 Design & Creative Tools</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -219,15 +184,11 @@ Motto:       Build → Ship → Repeat 🚀
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 </div>
-
 </details>
 
-<!-- VERSION CONTROL & PRODUCTIVITY -->
 <details open>
 <summary><h3>🔧 Version Control & Productivity</h3></summary>
-
 <br/>
-
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -236,7 +197,6 @@ Motto:       Build → Ship → Repeat 🚀
 ![Windows Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
-
 </details>
 
 <br/>
@@ -245,9 +205,7 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
 <div align="center">
 
@@ -258,21 +216,21 @@ Motto:       Build → Ship → Repeat 🚀
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&icon_color=6C63FF&text_color=1A1A2E&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&icon_color=8B7FF5&text_color=141414&ring_color=8B7FF5&include_all_commits=true&count_private=true" width="100%"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=default&hide_border=true&background=ffffff&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=1A1A2E&dates=888888&currStreakNum=1A1A2E&sideNums=1A1A2E" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=default&hide_border=true&background=ffffff&ring=8B7FF5&fire=F5A623&currStreakLabel=8B7FF5&sideLabels=141414&dates=888888&currStreakNum=141414&sideNums=141414" width="100%"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=1A1A2E&langs_count=8" alt="Top Languages" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&text_color=141414&langs_count=8" width="320"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarfarooque88&bg_color=ffffff&color=6C63FF&line=764ba2&point=FF6B6B&area=true&area_color=f093fb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarfarooque88&bg_color=ffffff&color=8B7FF5&line=A87CF3&point=F5A623&area=true&area_color=E8E8E4&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -282,9 +240,7 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
 <div align="center">
 
@@ -296,7 +252,6 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- PROJECT ROW 1 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -304,12 +259,12 @@ Motto:       Build → Ship → Repeat 🚀
 ### 🤖 Self-Hosted AI API
 > *A comprehensive AI API solution built with Python*
 
-A self-hosted alternative to commercial AI API services. Deploy your own AI endpoints with full control over models, data, and costs. No vendor lock-in.
+A self-hosted alternative to commercial AI API services. Deploy your own AI endpoints with full control over models, data, and costs.
 
 **Tech:** `Python` `Jupyter` `FastAPI` `AI/ML`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/self-hosted-ai-api)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/self-hosted-ai-api?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/self-hosted-ai-api)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/self-hosted-ai-api?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 <td width="50%" valign="top">
@@ -317,17 +272,16 @@ A self-hosted alternative to commercial AI API services. Deploy your own AI endp
 ### 📱 LinkedIn Content Machine
 > *AI-powered daily content generation system*
 
-Automated LinkedIn content pipeline — research trends, generate posts, and build your personal brand on autopilot. AI does the heavy lifting.
+Automated LinkedIn content pipeline — research trends, generate posts, and build personal brand on autopilot.
 
 **Tech:** `JavaScript` `Node.js` `AI` `Automation`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/linkedin-content-machine)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/linkedin-content-machine)
 
 </td>
 </tr>
 </table>
 
-<!-- PROJECT ROW 2 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -335,11 +289,11 @@ Automated LinkedIn content pipeline — research trends, generate posts, and bui
 ### 🏥 Medical Triage System
 > *Voice-based AI medical assessment platform*
 
-An intelligent voice-based medical triage platform powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance in real-time.
+Intelligent voice-based medical triage powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance.
 
 **Tech:** `Python` `AI/NLP` `Voice Recognition` `FastAPI`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/medical-triage-system)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/medical-triage-system)
 
 </td>
 <td width="50%" valign="top">
@@ -347,18 +301,17 @@ An intelligent voice-based medical triage platform powered by AI. Uses NLP to co
 ### 📊 System Monitor HUD
 > *Real-time desktop system metrics widget*
 
-A compact, always-on-top desktop widget displaying real-time system metrics as colorful animated arc gauges. CPU, RAM, Network — all at a glance.
+Compact, always-on-top desktop widget showing real-time system metrics as animated arc gauges. CPU, RAM, Network at a glance.
 
 **Tech:** `TypeScript` `Electron` `React` `System APIs`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/System-Monitor-HUD)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/System-Monitor-HUD?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/System-Monitor-HUD)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/System-Monitor-HUD?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 </tr>
 </table>
 
-<!-- PROJECT ROW 3 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -366,11 +319,11 @@ A compact, always-on-top desktop widget displaying real-time system metrics as c
 ### 🧠 Social Synapse AI
 > *Multi-platform social media management*
 
-Post content to Twitter/X, LinkedIn, and Reddit from a single interface. AI-powered content suggestions, scheduling, and analytics across all platforms.
+Post to Twitter/X, LinkedIn, Reddit from one interface. AI-powered content suggestions, scheduling, analytics across all platforms.
 
 **Tech:** `TypeScript` `React` `Firebase` `AI`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/social-synapse-ai)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/social-synapse-ai)
 
 </td>
 <td width="50%" valign="top">
@@ -378,17 +331,16 @@ Post content to Twitter/X, LinkedIn, and Reddit from a single interface. AI-powe
 ### ⚔️ Die On This Hill
 > *Debate-first opinion accountability platform*
 
-Post your unpopular opinion, others vote for or against — and votes are **permanent**. No switching sides, no edits. Where convictions are tested publicly.
+Post your unpopular opinion, others vote — votes are **permanent**. No switching sides, no edits. Where convictions are tested.
 
 **Tech:** `TypeScript` `React` `Firebase` `Real-time`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/die-on-this-hill)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/die-on-this-hill)
 
 </td>
 </tr>
 </table>
 
-<!-- PROJECT ROW 4 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -396,12 +348,12 @@ Post your unpopular opinion, others vote for or against — and votes are **perm
 ### 📧 ColdOutreach AI
 > *All-in-one cold email system for freelancers*
 
-AI-generated emails, Gmail API integration, client finding via Google Maps API, automated follow-ups, and complete outreach tracking — all in one dashboard.
+AI-generated emails, Gmail API integration, client finding via Maps API, automated follow-ups, outreach tracking — all in one dashboard.
 
 **Tech:** `JavaScript` `Node.js` `Gmail API` `Maps API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ColdOutreach)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/ColdOutreach?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ColdOutreach)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/ColdOutreach?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 <td width="50%" valign="top">
@@ -409,18 +361,16 @@ AI-generated emails, Gmail API integration, client finding via Google Maps API, 
 ### 📸 Facial Recognition Attendance
 > *Smart attendance via face recognition*
 
-Automated attendance system using facial recognition. Captures, identifies, and logs attendance of individuals in real-time. Zero manual intervention needed.
+Automated attendance using facial recognition. Captures, identifies, and logs attendance of individuals in real-time.
 
 **Tech:** `Python` `OpenCV` `face_recognition` `ML`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Facial-Recognition-Attendance-System)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/Facial-Recognition-Attendance-System?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Facial-Recognition-Attendance-System)
 
 </td>
 </tr>
 </table>
 
-<!-- PROJECT ROW 5 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -428,12 +378,12 @@ Automated attendance system using facial recognition. Captures, identifies, and 
 ### 📝 ResumeRanker AI
 > *AI-powered resume optimization tool*
 
-Analyzes resumes and provides personalized feedback on content, formatting, and keyword optimization. Get your resume past ATS systems and into human hands.
+Analyzes resumes with personalized feedback on content, formatting, keyword optimization. Get past ATS into human hands.
 
 **Tech:** `HTML` `React` `Flask` `Firebase` `AI`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ResumeRanker-AI)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/ResumeRanker-AI?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ResumeRanker-AI)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/ResumeRanker-AI?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 <td width="50%" valign="top">
@@ -441,18 +391,17 @@ Analyzes resumes and provides personalized feedback on content, formatting, and 
 ### 🍽️ Hostel Mess System
 > *Web-based mess management solution*
 
-Complete hostel mess system — student registrations, meal attendance tracking (lunch & dinner), payment handling, and meal history. Built for real hostel use.
+Complete hostel mess system — student registrations, meal attendance tracking, payment handling, and meal history.
 
 **Tech:** `JavaScript` `Node.js` `Web` `Database`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Hostel-Mess-System)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/Hostel-Mess-System?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Hostel-Mess-System)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/Hostel-Mess-System?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 </tr>
 </table>
 
-<!-- PROJECT ROW 6 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -460,12 +409,11 @@ Complete hostel mess system — student registrations, meal attendance tracking 
 ### 🛡️ Guard Form Builder
 > *Drag-and-drop form builder application*
 
-A powerful form builder with React, TypeScript, and Tailwind CSS. Drag-and-drop interface, shadcn-ui components, and seamless form creation workflow.
+Powerful form builder with React, TypeScript, and Tailwind. Drag-and-drop interface with shadcn-ui components.
 
 **Tech:** `TypeScript` `React` `Tailwind` `shadcn-ui`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/guard-form-build)
-![Stars](https://img.shields.io/github/stars/umarfarooque88/guard-form-build?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/guard-form-build)
 
 </td>
 <td width="50%" valign="top">
@@ -473,11 +421,11 @@ A powerful form builder with React, TypeScript, and Tailwind CSS. Drag-and-drop 
 ### 🛒 StreetSupplyHub
 > *Street-level supply chain platform*
 
-A marketplace platform connecting local street vendors and suppliers. Streamlined operations for small-scale retail and distribution management.
+Marketplace connecting local vendors and suppliers. Streamlined operations for small-scale retail and distribution.
 
 **Tech:** `Web` `JavaScript` `Full Stack`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/StreetSupplyHub)
+[![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/StreetSupplyHub)
 
 </td>
 </tr>
@@ -489,29 +437,7 @@ A marketplace platform connecting local street vendors and suppliers. Streamline
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=umarfarooque88&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=6C63FF" width="95%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- WHAT I DO -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ WHAT I DO ═══════════════ -->
 
 <div align="center">
 
@@ -523,30 +449,32 @@ A marketplace platform connecting local street vendors and suppliers. Streamline
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-**🤖 AI Engineering**
+### 🤖 AI Engineering
 
-Building intelligent systems that automate, predict, and adapt. From NLP to CV — turning data into decisions.
+Building intelligent systems that automate, predict, and adapt. From NLP to Computer Vision — turning data into decisions.
 
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-**🚀 Product Building**
+### 🚀 Product Building
 
 Full-stack development with a product mindset. I ship features that users love, not just code that compiles.
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="50%" align="center">
 
-**🎨 UI/UX Design**
+### 🎨 UI/UX Design
 
 Designing interfaces that feel natural and look stunning. Every pixel matters when building for humans.
 
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-**⚡ Automation**
+### ⚡ Automation
 
 Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can be automated, it will be.
 
@@ -560,27 +488,37 @@ Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can 
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SUPPORT / FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=umarfarooque88&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=8B7FF5" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
 
 ## 💖 Support My Work
 
-If you find my projects useful or inspiring, consider giving them a ⭐
-
-It motivates me to keep building and shipping!
+If you find my projects useful, consider giving them a ⭐ — it keeps me going!
 
 <br/>
 
-<a href="https://linkedin.com/in/umar-farooque88">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://linkedin.com/in/umar-farooque88"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;&nbsp;
-<a href="https://x.com/umarfaruk1026">
-  <img src="https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-</a>
+<a href="https://x.com/umarfaruk1026"><img src="https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -588,6 +526,6 @@ It motivates me to keep building and shipping!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7FF5,50:A87CF3,100:52C9B8&height=120&section=footer" width="100%"/>
 
 </div>
