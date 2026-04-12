@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9B8FFF"/><stop offset="100%" stop-color="#7B6FE8"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5ED4C3"/><stop offset="100%" stop-color="#42B5A5"/>
+    </linearGradient>
+    <linearGradient id="vg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B894F8"/><stop offset="100%" stop-color="#9470E8"/>
+    </linearGradient>
+    <linearGradient id="ag" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBB948"/><stop offset="100%" stop-color="#F5A623"/>
+    </linearGradient>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E"/><stop offset="40%" stop-color="#16213E"/>
+      <stop offset="70%" stop-color="#0F3460"/><stop offset="100%" stop-color="#533483"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#8B7FF5" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#8B7FF5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="og" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B7FF5"/><stop offset="33%" stop-color="#52C9B8"/>
+      <stop offset="66%" stop-color="#F472B6"/><stop offset="100%" stop-color="#F5A623"/>
+    </linearGradient>
+    <radialGradient id="oc">
+      <stop offset="0%" stop-color="#D0CAFF"/><stop offset="100%" stop-color="#8B7FF5"/>
+    </radialGradient>
+    <linearGradient id="ar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F472B6"/><stop offset="50%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#8B7FF5"/>
+    </linearGradient>
+    <filter id="sh" x="-5%" y="-3%" width="110%" height="112%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity="0.06"/>
+    </filter>
+    <clipPath id="clip"><rect width="880" height="500" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="880" height="500" rx="22" fill="#E8E8E4"/>
+
+    <!-- ══ PROFILE CARD ══ -->
+    <rect x="10" y="10" width="230" height="480" rx="18" fill="url(#pg)" filter="url(#sh)"/>
+    <circle cx="65" cy="440" r="100" fill="white" opacity="0.04"/>
+    <text x="32" y="42" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" fill="white" opacity="0.72" letter-spacing="0.3">&#x2699; About Me</text>
+    <circle cx="95" cy="120" r="52" fill="url(#ar)"/>
+    <circle cx="95" cy="120" r="48" fill="#7B6FE8"/>
+    <text x="95" y="130" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" fill="white" opacity="0.9" text-anchor="middle">UF</text>
+    <text x="28" y="250" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="white" opacity="0.65">I'm,</text>
+    <text x="28" y="290" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="800" fill="white" letter-spacing="-1.5">Umar</text>
+    <text x="28" y="335" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="800" fill="white" letter-spacing="-1.5">Farooque</text>
+    <line x1="28" y1="375" x2="222" y2="375" stroke="white" stroke-opacity="0.2" stroke-dasharray="3 3"/>
+    <rect x="28" y="390" width="12" height="9" rx="1.5" stroke="white" stroke-opacity="0.5" stroke-width="1" fill="none"/>
+    <polyline points="28,391 34,396 40,391" stroke="white" stroke-opacity="0.5" stroke-width="0.8" fill="none"/>
+    <text x="46" y="399" font-family="Segoe UI,Arial,sans-serif" font-size="9.5" fill="white" opacity="0.55">umarfaruk1026@gmail.com</text>
+    <circle cx="197" cy="447" r="24" fill="#141414"/>
+    <text x="197" y="443" font-family="Segoe UI,Arial,sans-serif" font-size="5" font-weight="700" fill="white" text-anchor="middle" letter-spacing="1.8">BUILD</text>
+    <circle cx="197" cy="449" r="3" fill="white"/>
+    <text x="197" y="461" font-family="Segoe UI,Arial,sans-serif" font-size="5" font-weight="700" fill="white" text-anchor="middle" letter-spacing="1.8">2025</text>
+
+    <!-- ══ TITLE CARD ══ -->
+    <rect x="250" y="10" width="450" height="100" rx="18" fill="white" filter="url(#sh)"/>
+    <line x1="687" y1="22" x2="687" y2="34" stroke="#00000025" stroke-width="1.5"/>
+    <line x1="675" y1="22" x2="687" y2="22" stroke="#00000025" stroke-width="1.5"/>
+    <text x="272" y="38" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="500" fill="#5A5A5A" letter-spacing="1.2">COMPUTER SCIENCE &#xB7; ARTIFICIAL INTELLIGENCE</text>
+    <text x="272" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="#141414" letter-spacing="-2">AI Engineer</text>
+    <text x="272" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#5A5A5A">Building systems that solve real problems</text>
+    <circle cx="660" cy="55" r="4" fill="#8B7FF5">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ══ STAT TEAL ══ -->
+    <rect x="710" y="10" width="160" height="100" rx="18" fill="url(#tg)" filter="url(#sh)"/>
+    <line x1="857" y1="22" x2="857" y2="34" stroke="white" stroke-opacity="0.4" stroke-width="1.5"/>
+    <line x1="845" y1="22" x2="857" y2="22" stroke="white" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="728" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="white" letter-spacing="-2">11+</text>
+    <text x="728" y="88" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="white" opacity="0.78">Projects Shipped</text>
+
+    <!-- ══ FEATURED CARD ══ -->
+    <rect x="250" y="120" width="450" height="200" rx="18" fill="url(#fg)" filter="url(#sh)"/>
+    <line x1="687" y1="132" x2="687" y2="144" stroke="white" stroke-opacity="0.3" stroke-width="1.5"/>
+    <line x1="675" y1="132" x2="687" y2="132" stroke="white" stroke-opacity="0.3" stroke-width="1.5"/>
+    <circle cx="475" cy="190" r="88" fill="url(#glow)"/>
+    <circle cx="475" cy="195" r="52" fill="url(#og)" opacity="0.8">
+      <animateTransform attributeName="transform" type="rotate" from="0 475 195" to="360 475 195" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="475" cy="195" r="42" fill="url(#oc)"/>
+    <circle cx="475" cy="195" r="20" fill="white" fill-opacity="0.15" stroke="white" stroke-opacity="0.3" stroke-width="1"/>
+    <polygon points="471,186 471,204 483,195" fill="white" opacity="0.9"/>
+    <text x="270" y="300" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="white">Medical Triage System</text>
+    <text x="270" y="314" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="white" opacity="0.5">Voice AI &#xB7; NLP &#xB7; Emergency Intelligence</text>
+    <rect x="610" y="291" width="78" height="24" rx="12" fill="white" fill-opacity="0.1" stroke="white" stroke-opacity="0.18"/>
+    <text x="630" y="307" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="white" opacity="0.8">Featured &#x2726;</text>
+
+    <!-- ══ STAT VIOLET ══ -->
+    <rect x="710" y="120" width="160" height="200" rx="18" fill="url(#vg)" filter="url(#sh)"/>
+    <line x1="857" y1="132" x2="857" y2="144" stroke="white" stroke-opacity="0.4" stroke-width="1.5"/>
+    <line x1="845" y1="132" x2="857" y2="132" stroke="white" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="728" y="275" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="white" letter-spacing="-2">6+</text>
+    <text x="728" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="white" opacity="0.78">AI Systems</text>
+    <text x="728" y="307" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="white" opacity="0.78">Deployed</text>
+
+    <!-- ══ TECH STACK CARD ══ -->
+    <rect x="250" y="330" width="230" height="160" rx="18" fill="#2A2A2A" filter="url(#sh)"/>
+    <line x1="467" y1="342" x2="467" y2="354" stroke="white" stroke-opacity="0.25" stroke-width="1.5"/>
+    <line x1="455" y1="342" x2="467" y2="342" stroke="white" stroke-opacity="0.25" stroke-width="1.5"/>
+    <text x="270" y="356" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="600" fill="white" opacity="0.4" letter-spacing="1.2">CORE STACK</text>
+    <rect x="270" y="372" width="32" height="28" rx="7" fill="#3776AB"/><text x="286" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="white" text-anchor="middle">Py</text>
+    <rect x="308" y="372" width="32" height="28" rx="7" fill="#F7DF1E"/><text x="324" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#323330" text-anchor="middle">JS</text>
+    <rect x="346" y="372" width="32" height="28" rx="7" fill="#20232a"/><text x="362" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="#61DAFB" text-anchor="middle">Re</text>
+    <rect x="384" y="372" width="32" height="28" rx="7" fill="#3178C6"/><text x="400" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="white" text-anchor="middle">TS</text>
+    <rect x="422" y="372" width="32" height="28" rx="7" fill="#DD2C00"/><text x="438" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="white" text-anchor="middle">Fb</text>
+    <rect x="270" y="406" width="32" height="28" rx="7" fill="#009688"/><text x="286" y="424" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="white" text-anchor="middle">FA</text>
+    <rect x="308" y="406" width="32" height="28" rx="7" fill="#5C3EE8"/><text x="324" y="424" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="white" text-anchor="middle">CV</text>
+    <rect x="346" y="406" width="32" height="28" rx="7" fill="#339933"/><text x="362" y="424" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="700" fill="white" text-anchor="middle">No</text>
+    <text x="270" y="475" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="white">Tech Stack</text>
+
+    <!-- ══ OPEN SOURCE CARD ══ -->
+    <rect x="490" y="330" width="210" height="160" rx="18" fill="#121212" filter="url(#sh)"/>
+    <line x1="687" y1="342" x2="687" y2="354" stroke="white" stroke-opacity="0.25" stroke-width="1.5"/>
+    <line x1="675" y1="342" x2="687" y2="342" stroke="white" stroke-opacity="0.25" stroke-width="1.5"/>
+    <text x="510" y="356" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="600" fill="white" opacity="0.35" letter-spacing="1">OPEN SOURCE</text>
+    <circle cx="595" cy="410" r="26" fill="url(#og)" opacity="0.75">
+      <animateTransform attributeName="transform" type="rotate" from="0 595 410" to="360 595 410" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="510" y="468" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="white" opacity="0.85">Self-Hosted</text>
+    <text x="510" y="484" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="white" opacity="0.85">AI API &#x2192;</text>
+
+    <!-- ══ AMBER CARD ══ -->
+    <rect x="710" y="330" width="160" height="160" rx="18" fill="url(#ag)" filter="url(#sh)"/>
+    <line x1="857" y1="342" x2="857" y2="354" stroke="white" stroke-opacity="0.4" stroke-width="1.5"/>
+    <line x1="845" y1="342" x2="857" y2="342" stroke="white" stroke-opacity="0.4" stroke-width="1.5"/>
+    <text x="728" y="448" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="800" fill="white" letter-spacing="-2">20+</text>
+    <text x="728" y="466" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="white" opacity="0.82" font-weight="500">Technologies</text>
+    <text x="728" y="480" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="white" opacity="0.82" font-weight="500">Mastered</text>
+  </g>
+</svg>
