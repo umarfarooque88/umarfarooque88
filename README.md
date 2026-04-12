@@ -1,57 +1,593 @@
-## Hi there
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=&fontSize=0" width="100%"/>
+</p>
 
-I’m a Computer Science student focused on building AI systems that solve real problems, not just sit as projects. I turn complex ideas into simple, usable products — especially in AI, automation, and intelligent systems.
+<div align="center">
 
-> I’m more interested in building things that matter than just learning how they work.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&duration=3000&pause=1000&color=1A1A2E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=55&lines=Hey+there%2C+I'm+Umar+Farooque+%F0%9F%91%8B" alt="Typing SVG" />
 
-🔭 Working on → AI systems & automation tools  
-👯 Open to → AI products & real-world projects  
-🤝 Need help with → Scaling & accuracy  
-🌱 Learning → Advanced AI, system design  
-💬 Ask me → AI, Firebase, automation, products  
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=30&lines=AI+Engineer+%7C+Full+Stack+Developer+%7C+Product+Builder+%7C+Design+Enthusiast" alt="Subtitle" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-farooque88)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/umarfaruk1026)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umar.farxoq)  
+</div>
 
----
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🧠 About Me
+
+I'm a **Computer Science student** focused on building **AI systems** that solve real problems — not just sit as projects.
+
+I turn complex ideas into **simple, usable products**, especially in AI, automation, and intelligent systems.
+
+> *"I'm more interested in building things that matter than just learning how they work."*
+
+```yaml
+Location:    Building the future 🌍
+Focus:       AI Systems & Automation
+Philosophy:  Ship fast, iterate faster
+Motto:       Build → Ship → Repeat 🚀
+```
+
+</td>
+<td width="45%" valign="top">
+
+### ⚡ Quick Glance
+
+| | |
+|---|---|
+| 🔭 **Working on** | AI systems & automation tools |
+| 👯 **Open to** | AI products & real-world projects |
+| 🤝 **Need help with** | Scaling & accuracy |
+| 🌱 **Learning** | Advanced AI, system design |
+| 💬 **Ask me about** | AI, Firebase, automation, products |
+| 🎯 **Goal** | Build AI that matters |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🔗 Let's Connect
+
+<br/>
+
+<a href="https://linkedin.com/in/umar-farooque88">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/umarfaruk1026">
+  <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/umar.farxoq">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:umarfarooque88@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/umarfarooque88">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=umarfarooque88&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+
+*Technologies I use to bring ideas to life*
+
+</div>
+
+<br/>
+
+<!-- LANGUAGES -->
+<details open>
+<summary><h3>💻 Programming Languages</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+</details>
+
+<!-- FRONTEND -->
+<details open>
+<summary><h3>🎨 Frontend & UI Frameworks</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+</details>
+
+<!-- BACKEND -->
+<details open>
+<summary><h3>⚙️ Backend & Runtime</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+</details>
+
+<!-- AI & DATA -->
+<details open>
+<summary><h3>🤖 AI & Data Science</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+</details>
+
+<!-- CLOUD & DEVOPS -->
+<details open>
+<summary><h3>☁️ Cloud & DevOps</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+</details>
+
+<!-- DESIGN -->
+<details open>
+<summary><h3>🎯 Design & Creative Tools</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+
+</div>
+
+</details>
+
+<!-- VERSION CONTROL & PRODUCTIVITY -->
+<details open>
+<summary><h3>🔧 Version Control & Productivity</h3></summary>
+
+<br/>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+</div>
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&icon_color=6C63FF&text_color=1A1A2E&ring_color=6C63FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=default&hide_border=true&background=ffffff&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=1A1A2E&dates=888888&currStreakNum=1A1A2E&sideNums=1A1A2E" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=6C63FF&text_color=1A1A2E&langs_count=8" alt="Top Languages" width="320"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarfarooque88&bg_color=ffffff&color=6C63FF&line=764ba2&point=FF6B6B&area=true&area_color=f093fb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+*What I've been building — real products, real impact*
+
+</div>
+
+<br/>
+
+<!-- PROJECT ROW 1 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Self-Hosted AI API
+> *A comprehensive AI API solution built with Python*
+
+A self-hosted alternative to commercial AI API services. Deploy your own AI endpoints with full control over models, data, and costs. No vendor lock-in.
+
+**Tech:** `Python` `Jupyter` `FastAPI` `AI/ML`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/self-hosted-ai-api)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/self-hosted-ai-api?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 LinkedIn Content Machine
+> *AI-powered daily content generation system*
+
+Automated LinkedIn content pipeline — research trends, generate posts, and build your personal brand on autopilot. AI does the heavy lifting.
+
+**Tech:** `JavaScript` `Node.js` `AI` `Automation`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/linkedin-content-machine)
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT ROW 2 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Medical Triage System
+> *Voice-based AI medical assessment platform*
+
+An intelligent voice-based medical triage platform powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance in real-time.
+
+**Tech:** `Python` `AI/NLP` `Voice Recognition` `FastAPI`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/medical-triage-system)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 System Monitor HUD
+> *Real-time desktop system metrics widget*
+
+A compact, always-on-top desktop widget displaying real-time system metrics as colorful animated arc gauges. CPU, RAM, Network — all at a glance.
+
+**Tech:** `TypeScript` `Electron` `React` `System APIs`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/System-Monitor-HUD)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/System-Monitor-HUD?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT ROW 3 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Social Synapse AI
+> *Multi-platform social media management*
+
+Post content to Twitter/X, LinkedIn, and Reddit from a single interface. AI-powered content suggestions, scheduling, and analytics across all platforms.
+
+**Tech:** `TypeScript` `React` `Firebase` `AI`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/social-synapse-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ Die On This Hill
+> *Debate-first opinion accountability platform*
+
+Post your unpopular opinion, others vote for or against — and votes are **permanent**. No switching sides, no edits. Where convictions are tested publicly.
+
+**Tech:** `TypeScript` `React` `Firebase` `Real-time`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/die-on-this-hill)
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT ROW 4 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📧 ColdOutreach AI
+> *All-in-one cold email system for freelancers*
+
+AI-generated emails, Gmail API integration, client finding via Google Maps API, automated follow-ups, and complete outreach tracking — all in one dashboard.
+
+**Tech:** `JavaScript` `Node.js` `Gmail API` `Maps API`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ColdOutreach)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/ColdOutreach?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 Facial Recognition Attendance
+> *Smart attendance via face recognition*
+
+Automated attendance system using facial recognition. Captures, identifies, and logs attendance of individuals in real-time. Zero manual intervention needed.
+
+**Tech:** `Python` `OpenCV` `face_recognition` `ML`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Facial-Recognition-Attendance-System)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/Facial-Recognition-Attendance-System?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT ROW 5 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 ResumeRanker AI
+> *AI-powered resume optimization tool*
+
+Analyzes resumes and provides personalized feedback on content, formatting, and keyword optimization. Get your resume past ATS systems and into human hands.
+
+**Tech:** `HTML` `React` `Flask` `Firebase` `AI`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/ResumeRanker-AI)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/ResumeRanker-AI?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Hostel Mess System
+> *Web-based mess management solution*
+
+Complete hostel mess system — student registrations, meal attendance tracking (lunch & dinner), payment handling, and meal history. Built for real hostel use.
+
+**Tech:** `JavaScript` `Node.js` `Web` `Database`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Hostel-Mess-System)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/Hostel-Mess-System?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+</tr>
+</table>
+
+<!-- PROJECT ROW 6 -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Guard Form Builder
+> *Drag-and-drop form builder application*
+
+A powerful form builder with React, TypeScript, and Tailwind CSS. Drag-and-drop interface, shadcn-ui components, and seamless form creation workflow.
+
+**Tech:** `TypeScript` `React` `Tailwind` `shadcn-ui`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/guard-form-build)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/guard-form-build?style=for-the-badge&color=f093fb&labelColor=1A1A2E)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 StreetSupplyHub
+> *Street-level supply chain platform*
+
+A marketplace platform connecting local street vendors and suppliers. Streamlined operations for small-scale retail and distribution management.
+
+**Tech:** `Web` `JavaScript` `Full Stack`
+
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/StreetSupplyHub)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=umarfarooque88&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=6C63FF" width="95%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I DO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💡 What I Do Best
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🤖 AI Engineering**
+
+Building intelligent systems that automate, predict, and adapt. From NLP to CV — turning data into decisions.
+
+</td>
+<td width="25%" align="center">
+
+**🚀 Product Building**
+
+Full-stack development with a product mindset. I ship features that users love, not just code that compiles.
+
+</td>
+<td width="25%" align="center">
+
+**🎨 UI/UX Design**
+
+Designing interfaces that feel natural and look stunning. Every pixel matters when building for humans.
+
+</td>
+<td width="25%" align="center">
+
+**⚡ Automation**
+
+Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can be automated, it will be.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SUPPORT / FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💖 Support My Work
+
+If you find my projects useful or inspiring, consider giving them a ⭐
+
+It motivates me to keep building and shipping!
+
+<br/>
+
+<a href="https://linkedin.com/in/umar-farooque88">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/umarfaruk1026">
+  <img src="https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
+
+<br/><br/>
+
+### 💬 *"The best way to predict the future is to build it."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
+
+</div>
