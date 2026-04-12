@@ -248,26 +248,7 @@ Motto:       Build → Ship → Repeat 🚀
 
 <div align="center">
 
-## 📊 GitHub Analytics
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&icon_color=8B7FF5&text_color=141414&ring_color=8B7FF5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=default&hide_border=true&background=ffffff&ring=8B7FF5&fire=F5A623&currStreakLabel=8B7FF5&sideLabels=141414&dates=888888&currStreakNum=141414&sideNums=141414" alt="GitHub Streak" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&text_color=141414&langs_count=8" alt="Top Languages" width="320"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarfarooque88&bg_color=ffffff&color=8B7FF5&line=A87CF3&point=F5A623&area=true&area_color=E8E8E4&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
@@ -532,26 +513,6 @@ Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=umarfarooque88&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=8B7FF5" width="95%"/>
-
-</div>
 
 <br/>
 
