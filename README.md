@@ -292,7 +292,7 @@ A self-hosted alternative to commercial AI API services. Deploy your own AI endp
 </td>
 <td width="50%" valign="top">
 
-### 📱 LinkedIn Content Machine
+### 📱 LinkedIn Content Machine (Private Repo)
 > *AI-powered daily content generation system*
 
 Automated LinkedIn content pipeline — research trends, generate posts, and build your personal brand on autopilot. AI does the heavy lifting.
@@ -310,7 +310,7 @@ Automated LinkedIn content pipeline — research trends, generate posts, and bui
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Medical Triage System
+### 🏥 Medical Triage System (Private Repo)
 > *Voice-based AI medical assessment platform*
 
 An intelligent voice-based medical triage platform powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance in real-time.
@@ -324,7 +324,7 @@ An intelligent voice-based medical triage platform powered by AI. Uses NLP to co
 
 
 
-### ⚔️ Die On This Hill
+### ⚔️ Die On This Hill (Private Repo)
 > *Debate-first opinion accountability platform*
 
 Post your unpopular opinion, others vote for or against — and votes are **permanent**. No switching sides, no edits. Where convictions are tested publicly.
