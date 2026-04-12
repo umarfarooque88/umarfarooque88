@@ -25,7 +25,6 @@ I'm a **Computer Science student** focused on building **AI systems** that solve
 
 I turn complex ideas into **simple, usable products**, especially in AI, automation, and intelligent systems.
 
-> *"I'm more interested in building things that matter than just learning how they work."*
 
 ```yaml
 Location:    Building the future 🌍
