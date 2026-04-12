@@ -1,3 +1,4 @@
+<!-- HERO BANNER — Bento Grid -->
 <p align="center">
   <img src="./assets/hero-banner.svg" width="100%" alt="Umar Farooque — AI Engineer, CS Student, Builder"/>
 </p>
@@ -10,17 +11,15 @@
 
 <br/>
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-
-<div align="center">
-
-## 🧠 About Me
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 <td width="55%" valign="top">
+
+### 🧠 About Me
 
 I'm a **Computer Science student** focused on building **AI systems** that solve real problems — not just sit as projects.
 
@@ -29,10 +28,10 @@ I turn complex ideas into **simple, usable products**, especially in AI, automat
 > *"I'm more interested in building things that matter than just learning how they work."*
 
 ```yaml
-Location:      Building the future 🌍
-Focus:         AI Systems & Automation
-Philosophy:    Ship fast, iterate faster
-Motto:         Build → Ship → Repeat 🚀
+Location:    Building the future 🌍
+Focus:       AI Systems & Automation
+Philosophy:  Ship fast, iterate faster
+Motto:       Build → Ship → Repeat 🚀
 ```
 
 </td>
@@ -46,7 +45,7 @@ Motto:         Build → Ship → Repeat 🚀
 | 👯 **Open to** | AI products & real-world projects |
 | 🤝 **Need help with** | Scaling & accuracy |
 | 🌱 **Learning** | Advanced AI, system design |
-| 💬 **Ask me about** | AI, Firebase, automation |
+| 💬 **Ask me about** | AI, Firebase, automation, products |
 | 🎯 **Goal** | Build AI that matters |
 
 </td>
@@ -55,11 +54,9 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONNECT WITH ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -67,15 +64,25 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
-<a href="https://linkedin.com/in/umar-farooque88"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://x.com/umarfaruk1026"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<a href="https://instagram.com/umar.farxoq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:umarfaruk1026@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/umarfarooque88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/umar-farooque88">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/umarfaruk1026">
+  <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/umar.farxoq">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:umarfaruk1026@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/umarfarooque88">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br/><br/>
 
@@ -89,7 +96,9 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -101,9 +110,12 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
+<!-- LANGUAGES -->
 <details open>
 <summary><h3>💻 Programming Languages</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -115,11 +127,15 @@ Motto:         Build → Ship → Repeat 🚀
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
+
 </details>
 
+<!-- FRONTEND -->
 <details open>
 <summary><h3>🎨 Frontend & UI Frameworks</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -130,11 +146,15 @@ Motto:         Build → Ship → Repeat 🚀
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
+
 </details>
 
+<!-- BACKEND -->
 <details open>
 <summary><h3>⚙️ Backend & Runtime</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -142,11 +162,15 @@ Motto:         Build → Ship → Repeat 🚀
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
+
 </details>
 
+<!-- AI & DATA -->
 <details open>
 <summary><h3>🤖 AI & Data Science</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -155,11 +179,15 @@ Motto:         Build → Ship → Repeat 🚀
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
+
 </details>
 
+<!-- CLOUD & DEVOPS -->
 <details open>
 <summary><h3>☁️ Cloud & DevOps</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -169,11 +197,15 @@ Motto:         Build → Ship → Repeat 🚀
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
+
 </details>
 
+<!-- DESIGN -->
 <details open>
 <summary><h3>🎯 Design & Creative Tools</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -184,11 +216,15 @@ Motto:         Build → Ship → Repeat 🚀
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 </div>
+
 </details>
 
+<!-- VERSION CONTROL & PRODUCTIVITY -->
 <details open>
 <summary><h3>🔧 Version Control & Productivity</h3></summary>
+
 <br/>
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -197,6 +233,7 @@ Motto:         Build → Ship → Repeat 🚀
 ![Windows Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
+
 </details>
 
 <br/>
@@ -205,7 +242,9 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -216,17 +255,17 @@ Motto:         Build → Ship → Repeat 🚀
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&icon_color=8B7FF5&text_color=141414&ring_color=8B7FF5&include_all_commits=true&count_private=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umarfarooque88&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&icon_color=8B7FF5&text_color=141414&ring_color=8B7FF5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=default&hide_border=true&background=ffffff&ring=8B7FF5&fire=F5A623&currStreakLabel=8B7FF5&sideLabels=141414&dates=888888&currStreakNum=141414&sideNums=141414" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfarooque88&theme=default&hide_border=true&background=ffffff&ring=8B7FF5&fire=F5A623&currStreakLabel=8B7FF5&sideLabels=141414&dates=888888&currStreakNum=141414&sideNums=141414" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&text_color=141414&langs_count=8" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarfarooque88&layout=donut-vertical&theme=default&hide_border=true&bg_color=ffffff&title_color=8B7FF5&text_color=141414&langs_count=8" alt="Top Languages" width="320"/>
 
 <br/><br/>
 
@@ -240,7 +279,9 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -252,6 +293,7 @@ Motto:         Build → Ship → Repeat 🚀
 
 <br/>
 
+<!-- PROJECT ROW 1 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -259,7 +301,7 @@ Motto:         Build → Ship → Repeat 🚀
 ### 🤖 Self-Hosted AI API
 > *A comprehensive AI API solution built with Python*
 
-A self-hosted alternative to commercial AI API services. Deploy your own AI endpoints with full control over models, data, and costs.
+A self-hosted alternative to commercial AI API services. Deploy your own AI endpoints with full control over models, data, and costs. No vendor lock-in.
 
 **Tech:** `Python` `Jupyter` `FastAPI` `AI/ML`
 
@@ -272,7 +314,7 @@ A self-hosted alternative to commercial AI API services. Deploy your own AI endp
 ### 📱 LinkedIn Content Machine
 > *AI-powered daily content generation system*
 
-Automated LinkedIn content pipeline — research trends, generate posts, and build personal brand on autopilot.
+Automated LinkedIn content pipeline — research trends, generate posts, and build your personal brand on autopilot. AI does the heavy lifting.
 
 **Tech:** `JavaScript` `Node.js` `AI` `Automation`
 
@@ -282,6 +324,7 @@ Automated LinkedIn content pipeline — research trends, generate posts, and bui
 </tr>
 </table>
 
+<!-- PROJECT ROW 2 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -289,7 +332,7 @@ Automated LinkedIn content pipeline — research trends, generate posts, and bui
 ### 🏥 Medical Triage System
 > *Voice-based AI medical assessment platform*
 
-Intelligent voice-based medical triage powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance.
+An intelligent voice-based medical triage platform powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance in real-time.
 
 **Tech:** `Python` `AI/NLP` `Voice Recognition` `FastAPI`
 
@@ -301,7 +344,7 @@ Intelligent voice-based medical triage powered by AI. Uses NLP to collect sympto
 ### 📊 System Monitor HUD
 > *Real-time desktop system metrics widget*
 
-Compact, always-on-top desktop widget showing real-time system metrics as animated arc gauges. CPU, RAM, Network at a glance.
+A compact, always-on-top desktop widget displaying real-time system metrics as colorful animated arc gauges. CPU, RAM, Network — all at a glance.
 
 **Tech:** `TypeScript` `Electron` `React` `System APIs`
 
@@ -312,6 +355,7 @@ Compact, always-on-top desktop widget showing real-time system metrics as animat
 </tr>
 </table>
 
+<!-- PROJECT ROW 3 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -319,7 +363,7 @@ Compact, always-on-top desktop widget showing real-time system metrics as animat
 ### 🧠 Social Synapse AI
 > *Multi-platform social media management*
 
-Post to Twitter/X, LinkedIn, Reddit from one interface. AI-powered content suggestions, scheduling, analytics across all platforms.
+Post content to Twitter/X, LinkedIn, and Reddit from a single interface. AI-powered content suggestions, scheduling, and analytics across all platforms.
 
 **Tech:** `TypeScript` `React` `Firebase` `AI`
 
@@ -331,7 +375,7 @@ Post to Twitter/X, LinkedIn, Reddit from one interface. AI-powered content sugge
 ### ⚔️ Die On This Hill
 > *Debate-first opinion accountability platform*
 
-Post your unpopular opinion, others vote — votes are **permanent**. No switching sides, no edits. Where convictions are tested.
+Post your unpopular opinion, others vote for or against — and votes are **permanent**. No switching sides, no edits. Where convictions are tested publicly.
 
 **Tech:** `TypeScript` `React` `Firebase` `Real-time`
 
@@ -341,6 +385,7 @@ Post your unpopular opinion, others vote — votes are **permanent**. No switchi
 </tr>
 </table>
 
+<!-- PROJECT ROW 4 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -348,7 +393,7 @@ Post your unpopular opinion, others vote — votes are **permanent**. No switchi
 ### 📧 ColdOutreach AI
 > *All-in-one cold email system for freelancers*
 
-AI-generated emails, Gmail API integration, client finding via Maps API, automated follow-ups, outreach tracking — all in one dashboard.
+AI-generated emails, Gmail API integration, client finding via Google Maps API, automated follow-ups, and complete outreach tracking — all in one dashboard.
 
 **Tech:** `JavaScript` `Node.js` `Gmail API` `Maps API`
 
@@ -361,16 +406,18 @@ AI-generated emails, Gmail API integration, client finding via Maps API, automat
 ### 📸 Facial Recognition Attendance
 > *Smart attendance via face recognition*
 
-Automated attendance using facial recognition. Captures, identifies, and logs attendance of individuals in real-time.
+Automated attendance system using facial recognition. Captures, identifies, and logs attendance of individuals in real-time. Zero manual intervention needed.
 
 **Tech:** `Python` `OpenCV` `face_recognition` `ML`
 
 [![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/Facial-Recognition-Attendance-System)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/Facial-Recognition-Attendance-System?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 </tr>
 </table>
 
+<!-- PROJECT ROW 5 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -378,7 +425,7 @@ Automated attendance using facial recognition. Captures, identifies, and logs at
 ### 📝 ResumeRanker AI
 > *AI-powered resume optimization tool*
 
-Analyzes resumes with personalized feedback on content, formatting, keyword optimization. Get past ATS into human hands.
+Analyzes resumes and provides personalized feedback on content, formatting, and keyword optimization. Get your resume past ATS systems and into human hands.
 
 **Tech:** `HTML` `React` `Flask` `Firebase` `AI`
 
@@ -391,7 +438,7 @@ Analyzes resumes with personalized feedback on content, formatting, keyword opti
 ### 🍽️ Hostel Mess System
 > *Web-based mess management solution*
 
-Complete hostel mess system — student registrations, meal attendance tracking, payment handling, and meal history.
+Complete hostel mess system — student registrations, meal attendance tracking (lunch & dinner), payment handling, and meal history. Built for real hostel use.
 
 **Tech:** `JavaScript` `Node.js` `Web` `Database`
 
@@ -402,6 +449,7 @@ Complete hostel mess system — student registrations, meal attendance tracking,
 </tr>
 </table>
 
+<!-- PROJECT ROW 6 -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -409,11 +457,12 @@ Complete hostel mess system — student registrations, meal attendance tracking,
 ### 🛡️ Guard Form Builder
 > *Drag-and-drop form builder application*
 
-Powerful form builder with React, TypeScript, and Tailwind. Drag-and-drop interface with shadcn-ui components.
+A powerful form builder with React, TypeScript, and Tailwind CSS. Drag-and-drop interface, shadcn-ui components, and seamless form creation workflow.
 
 **Tech:** `TypeScript` `React` `Tailwind` `shadcn-ui`
 
 [![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/guard-form-build)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/guard-form-build?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 <td width="50%" valign="top">
@@ -421,7 +470,7 @@ Powerful form builder with React, TypeScript, and Tailwind. Drag-and-drop interf
 ### 🛒 StreetSupplyHub
 > *Street-level supply chain platform*
 
-Marketplace connecting local vendors and suppliers. Streamlined operations for small-scale retail and distribution.
+A marketplace platform connecting local street vendors and suppliers. Streamlined operations for small-scale retail and distribution management.
 
 **Tech:** `Web` `JavaScript` `Full Stack`
 
@@ -437,7 +486,9 @@ Marketplace connecting local vendors and suppliers. Streamlined operations for s
 
 <br/>
 
-<!-- ═══════════════ WHAT I DO ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I DO BEST -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -451,14 +502,14 @@ Marketplace connecting local vendors and suppliers. Streamlined operations for s
 <tr>
 <td width="50%" align="center">
 
-### 🤖 AI Engineering
+**🤖 AI Engineering**
 
-Building intelligent systems that automate, predict, and adapt. From NLP to Computer Vision — turning data into decisions.
+Building intelligent systems that automate, predict, and adapt. From NLP to CV — turning data into decisions.
 
 </td>
 <td width="50%" align="center">
 
-### 🚀 Product Building
+**🚀 Product Building**
 
 Full-stack development with a product mindset. I ship features that users love, not just code that compiles.
 
@@ -467,14 +518,14 @@ Full-stack development with a product mindset. I ship features that users love, 
 <tr>
 <td width="50%" align="center">
 
-### 🎨 UI/UX Design
+**🎨 UI/UX Design**
 
 Designing interfaces that feel natural and look stunning. Every pixel matters when building for humans.
 
 </td>
 <td width="50%" align="center">
 
-### ⚡ Automation
+**⚡ Automation**
 
 Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can be automated, it will be.
 
@@ -488,7 +539,9 @@ Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can 
 
 <br/>
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -506,19 +559,27 @@ Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can 
 
 <br/>
 
-<!-- ═══════════════ FOOTER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SUPPORT / FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 💖 Support My Work
 
-If you find my projects useful, consider giving them a ⭐ — it keeps me going!
+If you find my projects useful or inspiring, consider giving them a ⭐
+
+It motivates me to keep building and shipping!
 
 <br/>
 
-<a href="https://linkedin.com/in/umar-farooque88"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/umar-farooque88">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 &nbsp;&nbsp;
-<a href="https://x.com/umarfaruk1026"><img src="https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/umarfaruk1026">
+  <img src="https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
 
 <br/><br/>
 
