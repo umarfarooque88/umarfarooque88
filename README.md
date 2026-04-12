@@ -366,6 +366,7 @@ A marketplace platform connecting local street vendors and suppliers. Streamline
 **Tech:** `Web` `JavaScript` `Full Stack`
 
 [![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/StreetSupplyHub)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/StreetSupplyHub?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 </tr>
