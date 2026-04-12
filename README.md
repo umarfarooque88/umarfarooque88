@@ -292,7 +292,7 @@ A self-hosted alternative to commercial AI API services. Deploy your own AI endp
 </td>
 <td width="50%" valign="top">
 
-### 📱 LinkedIn Content Machine (Private Repo)
+### 📱 LinkedIn Content Machine (Pvt Repo under Dev)
 > *AI-powered daily content generation system*
 
 Automated LinkedIn content pipeline — research trends, generate posts, and build your personal brand on autopilot. AI does the heavy lifting.
@@ -310,7 +310,7 @@ Automated LinkedIn content pipeline — research trends, generate posts, and bui
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Medical Triage System (Private Repo)
+### 🏥 Medical Triage System (Pvt Repo under Dev)
 > *Voice-based AI medical assessment platform*
 
 An intelligent voice-based medical triage platform powered by AI. Uses NLP to collect symptoms, prioritize patients, and provide emergency guidance in real-time.
@@ -436,8 +436,6 @@ Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## 💖 Support My Work
 
 If you find my projects useful or inspiring, consider giving them a ⭐
 
