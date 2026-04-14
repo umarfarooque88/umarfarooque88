@@ -299,6 +299,7 @@ Automated LinkedIn content pipeline — research trends, generate posts, and bui
 **Tech:** `JavaScript` `Node.js` `AI` `Automation`
 
 [![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/linkedin-content-machine)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/linkedin-content-machine?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
 
 </td>
 </tr>
@@ -317,6 +318,8 @@ An intelligent voice-based medical triage platform powered by AI. Uses NLP to co
 **Tech:** `Python` `AI/NLP` `Voice Recognition` `FastAPI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/medical-triage-system)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/medical-triage-system?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
+
 
 </td>
 <td width="50%" valign="top">
@@ -331,6 +334,8 @@ Post your unpopular opinion, others vote for or against — and votes are **perm
 **Tech:** `TypeScript` `React` `Firebase` `Real-time`
 
 [![Repo](https://img.shields.io/badge/View_Repo-8B7FF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarfarooque88/die-on-this-hill)
+![Stars](https://img.shields.io/github/stars/umarfarooque88/die-on-this-hill?style=for-the-badge&color=F5A623&labelColor=2A2A2A)
+
 
 </td>
 </tr>
