@@ -63,18 +63,7 @@ Motto:       Build → Ship → Repeat 🚀
 
 <br/>
 
-<a href="https://linkedin.com/in/umar-farooque88">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/umarfaruk1026">
-  <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/umar.farxoq">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
+
 <a href="mailto:umarfaruk1026@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -446,15 +435,6 @@ If you find my projects useful or inspiring, consider giving them a ⭐
 
 It motivates me to keep building and shipping!
 
-<br/>
-
-<a href="https://linkedin.com/in/umar-farooque88">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/umarfaruk1026">
-  <img src="https://img.shields.io/badge/Follow_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-</a>
 
 <br/><br/>
 
