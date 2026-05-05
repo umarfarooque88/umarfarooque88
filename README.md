@@ -431,12 +431,7 @@ Making repetitive work disappear. APIs, bots, scrapers, pipelines — if it can 
 
 <div align="center">
 
-If you find my projects useful or inspiring, consider giving them a ⭐
 
-It motivates me to keep building and shipping!
-
-
-<br/><br/>
 
 ### 💬 *"The best way to predict the future is to build it."*
 
