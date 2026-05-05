@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-I'm a **Computer Science student** focused on building **AI systems** that solve real problems — not just sit as projects.
+I'm a **Computer Science professional** focused on building **AI systems** that solve real problems — not just sit as projects.
 
 I turn complex ideas into **simple, usable products**, especially in AI, automation, and intelligent systems.
 
